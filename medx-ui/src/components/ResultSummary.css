@@ -1,0 +1,60 @@
+.result-card {
+  margin-top: 40px;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.result-card h2 {
+  color: #2563eb;
+  margin-bottom: 15px;
+}
+
+.simple-text {
+  background: #f1f5ff;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+table th {
+  background: #2563eb;
+  color: white;
+}
+
+.high {
+  color: red;
+  font-weight: bold;
+}
+
+.normal {
+  color: green;
+  font-weight: bold;
+}
+
+.low {
+  color: orange;
+  font-weight: bold;
+}
+
+ul {
+  text-align: left;
+}
+.card {
+  min-height: 200px;
+  background: #fff;
+}
+
